@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 #partners {
-	background-color: #2e3b47;
+	background-color: #2b292b;
 	color: #fff;
 }
 
@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, p {
 /* BUTTONS */
 
 /* This is the orange #c19c58 */
-/* This is the navy #2e3b47 */
+/* This is the navy #2b292b */
 
 .linkbtn {
 	background-color: #fff;
@@ -120,17 +120,17 @@ h1, h2, h3, h4, h5, p {
 	padding-right: 16px;
 	border-radius: 0px;
 	height: 36px;
-	color: #2e3b47;
-	border: 1px solid #2e3b47;
+	color: #2b292b;
+	border: 1px solid #2b292b;
 }
 
 .linkbtn:hover {
-	background-color: #2e3b47 !important;
+	background-color: #2b292b !important;
 	color: #fff !important;
 }
 
 .linkbtnnow {
-	background-color: #2e3b47 !important;
+	background-color: #2b292b !important;
 	color: #fff !important;
 }
 
