@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 .orangetext {
-	color: #f48220;
+	color: #c19c58;
 }
 
 #header {
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, p {
 
 /* BUTTONS */
 
-/* This is the orange #f48220 */
+/* This is the orange #c19c58 */
 /* This is the navy #2e3b47 */
 
 .linkbtn {
@@ -219,7 +219,7 @@ button:focus {
 
 a > .orangetext {
 	text-decoration: underline;
-	color: #f48220;;
+	color: #c19c58;;
 }
 
 a:hover {
@@ -238,14 +238,14 @@ a:hover {
 	height: 12px;
 	border-radius: 12px;
 	margin-bottom: 6px;
-	border: 1px solid #f48220;
+	border: 1px solid #c19c58;
 	background-color: #fff;
 	cursor: pointer;
 	
 }
 
 .fullcircle {
-	background-color: #f48220 !important;
+	background-color: #c19c58 !important;
 }
 
 .leftcorner {
@@ -279,7 +279,7 @@ a:hover {
 
 .lll {
 	/*background-attachment: scroll;*/
-	background-image: url('/images/graphics/lineduplyinglinks2.png');
+	background-image: url('/images/graphics/jiplgraph2.png');
 	max-width: 940px;
 	background-position: 100% 100%;
 	margin: 0 auto;
@@ -327,4 +327,14 @@ a:hover {
 .socialimg {
 	width: 32px;
 	margin-right: 16px;
+}
+
+.footerlink, .footerlink:visited {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.footerlink:hover {
+	color: #fff !important;
+	text-decoration: none !important;
 }
